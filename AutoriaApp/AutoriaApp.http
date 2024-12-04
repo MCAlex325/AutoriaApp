@@ -1,0 +1,6 @@
+@AutoriaApp_HostAddress = http://localhost:5215
+
+GET {{AutoriaApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
